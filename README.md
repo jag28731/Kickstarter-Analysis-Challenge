@@ -17,7 +17,7 @@
 
 ### Challenges and Difficulties Encountered
 - During my analysis, there was syntax that I was unaware of, or I was unaware how to use the syntax.  I used the documentation provided by Microsoft or I used Google for an solution.  A possible challenge that could occur while analyzing data is not receiving specific guidance from the client that they are looking for.  Working closely with your clients to determine exactly their needs will assist with your research and provide all the details the client needs.
-- 
+
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 1. Based on my research, the summer months (May, June, July) has the most successful shows. 2. Based on my research, December is the slowest (least) number of shows scheduled.  

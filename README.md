@@ -7,7 +7,7 @@
  The purpose of my analysis was to visually show which Kickstarter program would be the best and most successful option for Louise based on Launch dates and goals.  Having all the data in a spreadsheet allows Louise to filter any particular information she is looking for, as well as graph the information to see it visually.
   
 ## Analysis and Challenges
-- Louise asked for specific information in which I conducted my analysis on. Louise asked for “Theater Outcomes vs Launch Dates” and “Outcomes vs Goals”. I was able to create two different worksheets using the Kickstarter data to provide Louise a breakdown of the specific information she was looking for.
+  Louise asked for specific information in which I conducted my analysis on. Louise asked for “Theater Outcomes vs Launch Dates” and “Outcomes vs Goals”. I was able to create two different worksheets using the Kickstarter data to provide Louise a breakdown of the specific information she was looking for.
  
 ### Analysis of Outcomes Based on Launch Date
 - For the “Theater Outcomes vs Launch Dates”, I created a pivot chart for all the Kickstarter and then filtered by the category theater, the outcomes, the launch date, and the years. I was able to use a line graph to visually show the rates of successful, failed, and canceled shows by month. I determined that the summer months have the most successful events while the winter months had lower shows (successful, failed, canceled) overall.

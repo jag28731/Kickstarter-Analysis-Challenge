@@ -24,15 +24,15 @@
 
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-1. Based on my research, the summer months (May, June, July) has the most successful shows. 2. Based on my research, December is the slowest (least) number of shows scheduled.  
+1. Based on my research, the summer months (May, June, July) has the most successful shows. 
+2. Based on my research, December is the slowest (least) number of shows scheduled.  
 
 - What can you conclude about the Outcomes based on Goals?
 1. Based on my research, the higher the goal, the more unlikely you will be successful in reaching the goal. 
 
 - What are some limitations of this dataset?
-1. Does the currency include the exchange rate? 
-2. Popularity in certain country?
-3. Number of Pledges?
+1. Does the currency include the exchange rate? Each countries currency has a different value. 
+2. Does one counrty have a different fan base for each category. That could affect the outcome for each category.
 
 - What are some other possible tables and/or graphs that we could create?
 1. Outcomes Based on Pledges

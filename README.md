@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-  Louise is looking at all the different Kickstarters based on multiple factors to include, goals, pledged, outcomes, categories, launch date, and more. Louise has asked to assist her in finding the best Kickstarter for her to establish.
+  Louise is looking at all the different Kickstarters based on multiple factors to include, goals, pledged, outcomes, categories, launch date, and more. Louise has asked to assist her in finding the best fundraiser for her to establish.
   
 ### Purpose
  The purpose of my analysis was to visually show which Kickstarter program would be the best and most successful option for Louise based on Launch dates and goals.  Having all the data in a spreadsheet allows Louise to filter any particular information she is looking for, as well as graph the information to see it visually.

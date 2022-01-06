@@ -15,7 +15,9 @@
 ![Theater vs Launch Date](https://github.com/jag28731/Kickstarter-Analysis-Challenge/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-- For the “Outcomes Based on Goals, I created a chart to show how many “plays” there was that was successful, failed, and/or canceled based on their goals by $5,000 increments. Using those numbers, I was able to determine a percentage for successful, failed, and canceled plays. I took those numbers and put them into a line chart for visual effects. Based on the chart and graph, I determined that the more money a goal is, it is more unlikely that you will be successful in reaching that goal.  
+- For the “Outcomes Based on Goals, I created a chart to show how many “plays” there was that was successful, failed, and/or canceled based on their goals by $5,000 increments. Using those numbers, I was able to determine a percentage for successful, failed, and canceled plays. I took those numbers and put them into a line chart for visual effects. Based on the chart and graph, I determined that the more money a goal is, it is more unlikely that you will be successful in reaching that goal.
+
+![Outcomes Based on Goals](https://github.com/jag28731/Kickstarter-Analysis-Challenge/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 - During my analysis, there was syntax that I was unaware of, or I was unaware how to use the syntax.  I used the documentation provided by Microsoft or I used Google for an solution.  A possible challenge that could occur while analyzing data is not receiving specific guidance from the client that they are looking for.  Working closely with your clients to determine exactly their needs will assist with your research and provide all the details the client needs.

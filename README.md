@@ -12,6 +12,8 @@
 ### Analysis of Outcomes Based on Launch Date
 - For the “Theater Outcomes vs Launch Dates”, I created a pivot chart for all the Kickstarter and then filtered by the category theater, the outcomes, the launch date, and the years. I was able to use a line graph to visually show the rates of successful, failed, and canceled shows by month. I determined that the summer months have the most successful events while the winter months had lower shows (successful, failed, canceled) overall.
 
+/main/Resources/Theater_Outcomes_vs_Launch.png
+
 ### Analysis of Outcomes Based on Goals
 - For the “Outcomes Based on Goals, I created a chart to show how many “plays” there was that was successful, failed, and/or canceled based on their goals by $5,000 increments. Using those numbers, I was able to determine a percentage for successful, failed, and canceled plays. I took those numbers and put them into a line chart for visual effects. Based on the chart and graph, I determined that the more money a goal is, it is more unlikely that you will be successful in reaching that goal.  
 
